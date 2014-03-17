@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>faceImage</key>
+		<string>amber_conville.jpg</string>
+		<key>faceName</key>
+		<string>Amber Conville</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>andrew_beattie.jpg</string>
+		<key>faceName</key>
+		<string>Andrew Beattie</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>bill_camp.png</string>
+		<key>faceName</key>
+		<string>Bill Camp</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>brian_munzenberger.jpg</string>
+		<key>faceName</key>
+		<string>Brian Munzenberger</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>bryan_kelly.png</string>
+		<key>faceName</key>
+		<string>Bryan Kelly</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>chelsey_baker.jpg</string>
+		<key>faceName</key>
+		<string>Chelsey Baker</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>chris_petersen.jpg</string>
+		<key>faceName</key>
+		<string>Chris Petersen</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>chris_trevarthen.jpg</string>
+		<key>faceName</key>
+		<string>Chris Trevarthen</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>dan_trenz.jpg</string>
+		<key>faceName</key>
+		<string>Dan Trenz</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>dan_ward.jpg</string>
+		<key>faceName</key>
+		<string>Dan Ward</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>dave_mckinnon.png</string>
+		<key>faceName</key>
+		<string>Dave McKinnon</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>dave_russell.png</string>
+		<key>faceName</key>
+		<string>Dave Russell</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>david_klawitter.jpg</string>
+		<key>faceName</key>
+		<string>David Klawitter</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>drew_pickett.jpg</string>
+		<key>faceName</key>
+		<string>Drew Pickett</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>erika_carlson.jpg</string>
+		<key>faceName</key>
+		<string>Momma Duck</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>ducks.jpg</string>
+		<key>faceName</key>
+		<string>The Apprentices</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>jake_payton.jpg</string>
+		<key>faceName</key>
+		<string>Jake Payton</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>jason_stolaruk.png</string>
+		<key>faceName</key>
+		<string>Jason Stolaruk</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>jeff_burt.jpg</string>
+		<key>faceName</key>
+		<string>Jeff Burt</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>jeff_kelley.jpg</string>
+		<key>faceName</key>
+		<string>Jeff Kelley</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>jeff_sibbold.png</string>
+		<key>faceName</key>
+		<string>Jeff Sibbold</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>jon_shier.jpg</string>
+		<key>faceName</key>
+		<string>Jon Shier</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>josh_diskin.png</string>
+		<key>faceName</key>
+		<string>Josh Diskin</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>josh_sklar.jpg</string>
+		<key>faceName</key>
+		<string>Josh Sklar</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>justin_fitins.jpg</string>
+		<key>faceName</key>
+		<string>Justin Fitins</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>lauren_malatesta.jpg</string>
+		<key>faceName</key>
+		<string>Lauren Malatesta</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>macklin_underdown.jpg</string>
+		<key>faceName</key>
+		<string>Macklin Underdown</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>marc_nischan.jpg</string>
+		<key>faceName</key>
+		<string>Marc Nischan</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>mark_douillard.jpg</string>
+		<key>faceName</key>
+		<string>Mark Douillard</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>mark_schall.png</string>
+		<key>faceName</key>
+		<string>Mark Schall</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>mary_beth_snyder.png</string>
+		<key>faceName</key>
+		<string>Mary Beth Snyder</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>nate_west.jpg</string>
+		<key>faceName</key>
+		<string>Nate West</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>nathan_dotz.png</string>
+		<key>faceName</key>
+		<string>Nathan Dotz</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>nathan_hughes.jpg</string>
+		<key>faceName</key>
+		<string>Nathan Hughes</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>paul_glomski.png</string>
+		<key>faceName</key>
+		<string>Paul Glomski</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>raquel_salaysay.jpg</string>
+		<key>faceName</key>
+		<string>Rok</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>sara_daguanno.jpg</string>
+		<key>faceName</key>
+		<string>Sara Daguanno</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>stuart_kent.jpg</string>
+		<key>faceName</key>
+		<string>Stuart Kent</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>ted_hansen.png</string>
+		<key>faceName</key>
+		<string>Ted Hansen</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>terry_may.jpg</string>
+		<key>faceName</key>
+		<string>Terry May</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>will_hinchman.jpg</string>
+		<key>faceName</key>
+		<string>Will Hinchman</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>faceImage</key>
+		<string>will_mcdowell.png</string>
+		<key>faceName</key>
+		<string>Will McDowell</string>
+		<key>memorized</key>
+		<false/>
+	</dict>
+</array>
+</plist>
